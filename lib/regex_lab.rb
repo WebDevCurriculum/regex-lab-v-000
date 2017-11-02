@@ -1,7 +1,8 @@
 def starts_with_a_vowel?(word)
 
+  # can't figure out how to print first word 
  vowel = word.scan(/^[aeiou]/)
- vowel 
+  
 
 end
 
